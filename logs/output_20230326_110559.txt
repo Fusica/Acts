@@ -1,0 +1,60 @@
+Train Epoch: 1 [0/60000 (0%)]	Loss: 2.304581
+Epoch time: 16.14832091331482
+Accuracy: 88.67%
+Train Epoch: 2 [0/60000 (0%)]	Loss: 0.291186
+Epoch time: 15.47029709815979
+Accuracy: 93.84%
+Train Epoch: 3 [0/60000 (0%)]	Loss: 0.199815
+Epoch time: 16.254347801208496
+Accuracy: 95.27%
+Train Epoch: 4 [0/60000 (0%)]	Loss: 0.171122
+Epoch time: 15.581418991088867
+Accuracy: 96.00%
+Train Epoch: 5 [0/60000 (0%)]	Loss: 0.109189
+Epoch time: 15.509980916976929
+Accuracy: 96.68%
+Train Epoch: 6 [0/60000 (0%)]	Loss: 0.101095
+Epoch time: 15.493975162506104
+Accuracy: 96.93%
+Train Epoch: 7 [0/60000 (0%)]	Loss: 0.066118
+Epoch time: 15.310823917388916
+Accuracy: 97.37%
+Train Epoch: 8 [0/60000 (0%)]	Loss: 0.110509
+Epoch time: 15.115735054016113
+Accuracy: 97.58%
+Train Epoch: 9 [0/60000 (0%)]	Loss: 0.048587
+Epoch time: 15.113077878952026
+Accuracy: 97.48%
+Train Epoch: 10 [0/60000 (0%)]	Loss: 0.092078
+Epoch time: 15.102118968963623
+Accuracy: 97.85%
+Train Epoch: 11 [0/60000 (0%)]	Loss: 0.083759
+Epoch time: 15.122246026992798
+Accuracy: 98.15%
+Train Epoch: 12 [0/60000 (0%)]	Loss: 0.038346
+Epoch time: 15.105570077896118
+Accuracy: 98.14%
+Train Epoch: 13 [0/60000 (0%)]	Loss: 0.068575
+Epoch time: 15.11143970489502
+Accuracy: 98.27%
+Train Epoch: 14 [0/60000 (0%)]	Loss: 0.106514
+Epoch time: 15.11551308631897
+Accuracy: 98.28%
+Train Epoch: 15 [0/60000 (0%)]	Loss: 0.034946
+Epoch time: 15.133350849151611
+Accuracy: 98.26%
+Train Epoch: 16 [0/60000 (0%)]	Loss: 0.030968
+Epoch time: 15.119767904281616
+Accuracy: 98.54%
+Train Epoch: 17 [0/60000 (0%)]	Loss: 0.034305
+Epoch time: 15.124475955963135
+Accuracy: 97.63%
+Train Epoch: 18 [0/60000 (0%)]	Loss: 0.099714
+Epoch time: 15.101123809814453
+Accuracy: 98.56%
+Train Epoch: 19 [0/60000 (0%)]	Loss: 0.036123
+Epoch time: 15.141448974609375
+Accuracy: 98.48%
+Train Epoch: 20 [0/60000 (0%)]	Loss: 0.053809
+Epoch time: 15.109839916229248
+Accuracy: 98.66%

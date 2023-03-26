@@ -1,0 +1,4 @@
+Train Epoch: 1 [0/60000 (0%)]	Loss: 2.303489
+Epoch time: 45.5938024520874
+Accuracy: 93.89%
+Train Epoch: 2 [0/60000 (0%)]	Loss: 0.109358
